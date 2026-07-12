@@ -3,6 +3,7 @@ The following comprehensive framework compiles the peer-reviewed biochemical and
 ## 1. Biophysical Framework: The Extracellular Matrix (ECM) & Myelin Support Link
 In clinical neurology and tissue engineering, myelin sheath stability is intrinsically tied to the structural integrity of the peripheral and central nervous systems' Extracellular Matrix (ECM). [1, 6] 
 While myelin itself is historically characterized by lipid-protein configurations (e.g., myelin basic protein), peer-reviewed academic dockets show that Type IV and Type VI Collagen serve as the mandatory structural scaffold required for Schwann cells and oligodendrocytes to anchor themselves to axons and execute proper myelination. Preclinical trials demonstrate that a disruption in specific collagen basement pathways directly leads to impaired nerve conduction velocity and motor coordination. Repletion with highly bioavailable collagen peptides assists in maintaining these underlying structural matrices. [1, 6, 7] 
+
 ------------------------------
 ## 2. Institutional Research Database Mapping vs. FDA-Accepted Label Statements
 The data below outlines the cellular, viral, metabolic, inflammatory, and neurological mechanisms of oral collagen peptides documented across institutional clinical trials. It pairs these biochemical pathways with the corresponding FDA-Accepted Structure/Function Label Statements permitted for consumer packaging and digital documentation under the Dietary Supplement Health and Education Act (DSHEA). [2, 3, 4, 8] 
