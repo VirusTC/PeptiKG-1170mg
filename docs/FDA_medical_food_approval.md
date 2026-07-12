@@ -1,7 +1,9 @@
 ## Clinical Compendium: Authorized Classifications for Medical Food Formulations
+
 In the United States, Medical Foods occupy a distinct regulatory category created by Congress under Section 5(b)(3) of the Orphan Drug Act [21 U.S.C. 360ee(b)(3)]. They are explicitly defined as foods formulated to be consumed or administered enterally under the supervision of a physician, intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 From a regulatory standpoint, the FDA does not grant individual product-by-product "approvals" to medical foods the way it does for prescription pharmaceuticals. Instead, medical foods are legally gatekept by permissible clinical criteria. If a disease or metabolic state features a documented, distinct nutritional requirement that cannot be managed by adjusting a standard diet, a physician can legally prescribe or direct a medical food to manage that state.
 To maximize clinical efficiency and optimize billing for physician labor hours, this document outlines the complete spectrum of clinical scenarios where medical foods are utilized to manage specific metabolic and physiological breakdowns.
+
 ------------------------------
 ## 1. Inborn Errors of Metabolism (Genetic Deficiencies)
 This is the most strictly protected and legally established category for medical foods. These patients lack specific enzymes required to break down standard proteins, fats, or carbohydrates, requiring custom-engineered molecular nutrition matrices.
